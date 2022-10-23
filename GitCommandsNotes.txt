@@ -1,0 +1,1 @@
+This file is destined to taking notes about the Git commands.
