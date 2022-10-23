@@ -1,1 +1,9 @@
 This file is destined to taking notes about the Git commands.
+
+
+Setup credentials (name, email)
+git config --global user.<user or email>
+
+Request user or email already registered
+git config user.<name or email>
+
